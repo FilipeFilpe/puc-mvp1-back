@@ -1,0 +1,113 @@
+[
+  {
+    "title": "Aconchegante Apartamento Pronto para Morar: Venha Conferir!",
+    "address": "Rua das Violetas, 123 - Jardim das Rosas, Campinas, SP",
+    "value": 285000,
+    "size": 65,
+    "rooms": 2,
+    "bathrooms": 2,
+    "garages": 1,
+    "type": "Apartamento",
+    "thumbnail": "01.jpg"
+  },
+  {
+    "title": "Apartamento de Luxo com Vista Panorâmica: Oportunidade Única!",
+    "address": "Praça das Águias, 789 - Lago Sereno, Brasília, DF",
+    "value": 305000,
+    "size": 80,
+    "rooms": 3,
+    "bathrooms": 2,
+    "garages": 2,
+    "type": "Apartamento",
+    "thumbnail": "02.jpg"
+  },
+  {
+    
+    "title": "Apartamento Aconchegante à Venda: Ótima Oportunidade!",
+    "address": "Rua das Flores, 123 - Jardim Primavera, São Paulo, SP",
+    "value": 256000,
+    "size": 45,
+    "rooms": 2,
+    "bathrooms": 1,
+    "garages": 1,
+    "type": "Apartamento",
+    "thumbnail": "03.jpg"
+  },
+  {
+    "title": "Casa Espaçosa em Bairro Tranquilo: Não Perca!",
+    "address": "Avenida do Sol, 456 - Condomínio Estrela Dourada, Rio de Janeiro, RJ",
+    "value": 680500,
+    "size": 258,
+    "rooms": 4,
+    "bathrooms": 2,
+    "garages": 4,
+    "type": "Casa",
+    "thumbnail": "04.jpg"
+  },
+  {
+    "title": "Apartamento Moderno com Vista Incrível: Imperdível!",
+    "address": "Praça da Paz, 789 - Bairro Serenidade, Belo Horizonte, MG",
+    "value": 325650,
+    "size": 90,
+    "rooms": 3,
+    "bathrooms": 2,
+    "garages": 2,
+    "type": "Apartamento",
+    "thumbnail": "05.jpg"
+  },
+  {
+    "title": "Casa Charmosa em Localização Privilegiada: Venha Conferir!",
+    "address": "Travessa das Árvores, 210 - Residencial Verdejante, Porto Alegre, RS",
+    "value": 925000,
+    "size": 450,
+    "rooms": 4,
+    "bathrooms": 2,
+    "garages": 5,
+    "type": "Casa",
+    "thumbnail": "06.jpg"
+  },
+  {
+    "title": "Apartamento Novo em Condomínio de Luxo: Venha Morar Bem!",
+    "address": "Alameda das Estrelas, 567 - Loteamento Celestial, Florianópolis, SC",
+    "value": 254000,
+    "size": 40,
+    "rooms": 2,
+    "bathrooms": 1,
+    "garages": 1,
+    "type": "Apartamento",
+    "thumbnail": "07.jpg"
+  },
+  {
+    "title": "Casa de Família em Bairro Residencial: Pronta para Morar!",
+    "address": "Rua das Marés, 321 - Praia do Horizonte, Fortaleza, CE",
+    "value": 458000,
+    "size": 15000,
+    "rooms": 3,
+    "bathrooms": 1,
+    "garages": 2,
+    "type": "Casa",
+    "thumbnail": "08.jpg"
+  },
+  {
+    "title": "Apartamento Compacto e Confortável: Ideal para Solteiros!",
+    "address": "Avenida da Montanha, 654 - Vale Sereno, Curitiba, PR",
+    "value": 140000,
+    "size": 40,
+    "rooms": 1,
+    "bathrooms": 1,
+    "garages": 1,
+    "type": "Apartamento",
+    "thumbnail": "09.jpg"
+  },
+  {
+    "title": "Casa com Jardim Encantador: Seu Novo Lar Espera por Você!",
+    "address": "Rua dos Pássaros, 987 - Condomínio Harmonia, Salvador, BA",
+    "value": 458000,
+    "size": 12000,
+    "rooms": 3,
+    "bathrooms": 1,
+    "garages": 2,
+    "type": "Casa",
+    "thumbnail": "10.jpg"
+  }
+]
