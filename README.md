@@ -34,15 +34,15 @@ Principais funcionalidades:
 
 Primeiramente temos que instalar as libs presentes em `requirements.txt` com o seguinte comando:
   ```
-    pip install -r requirements.txt
+  pip install -r requirements.txt
   ```
 Depois que as libs foram instaladas, podemos executar o projeto com o comando:
   ```
-    flask run --host 0.0.0.0 --port 5000
+  flask run --host 0.0.0.0 --port 5000
   ```
   ou em modo de desenvolvimento:
   ```
-    flask run --host 0.0.0.0 --port 5000 --reload
+  flask run --host 0.0.0.0 --port 5000 --reload
   ```
 
 Abra o [http://localhost:5000/](http://localhost:5000/) no navegador para verificar o status da API em execução.
